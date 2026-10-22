@@ -10,4 +10,4 @@ currently building an in-house erp at van universal motors. before that, led a b
 
 #### reach me
 
-[website](https://xasannosir.com) / [linkedin](https://linkedin.com/in/xasannosir) / [telegram](https://t.me/xasannosir) / hello@xasannosir.com
+[website](https://xasannosir.com) / [linkedin](https://linkedin.com/in/xasannosir) / [leetcode](https://leetcode.com/u/xasannosir) / hello@xasannosir.com
